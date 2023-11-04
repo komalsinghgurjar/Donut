@@ -1,4 +1,4 @@
-/* Linux command to compile and run: gcc -o dount donut.c -lm && ./donut  */
+/* Linux command to compile and run: gcc -o donut donut.c -lm && ./donut  */
 
 #include <stdio.h>
 #include <string.h>
